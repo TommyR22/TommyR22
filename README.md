@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TommyR22/TommyR22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer: Currently working at Reply using React.
+- :computer: Currently working at [Reply](https://www.reply.com/) using Angular.
+- 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyR22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
