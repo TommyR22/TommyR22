@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer: Currently working at [Reply](https://www.reply.com/) using Angular.
+- :computer: Currently working at [Subito.it](https://www.subito.it/).
 - :mailbox_with_no_mail: You can connect with me on [Linkedin](https://www.linkedin.com/in/tommyr22/).
 - :file_folder: You can check all my projects on my [website](tommasoruscica.eu).
 
