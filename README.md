@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - :computer: Currently working at [Subito.it](https://www.subito.it/).
 - :mailbox_with_no_mail: You can connect with me on [Linkedin](https://www.linkedin.com/in/tommyr22/).
-- :file_folder: You can check all my projects on my [website](tommasoruscica.eu).
+- :file_folder: You can check all my projects on my [website](https://tommasoruscica.eu).
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyR22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
